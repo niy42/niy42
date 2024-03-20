@@ -1,5 +1,5 @@
 ---
-![Lottery](https://img.shields.io/badge/Language-Solidity-brightgreen) ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange)
+![Lottery](https://img.shields.io/badge/Language-Solidity-brightgreen-javascript-yellow) ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange)
 # Hello, I'm niy42 👋
 
 Welcome to my GitHub profile! I'm an aspiring developer passionate about building innovative projects using React.js, Solidity, Python, and JavaScript. Here you'll find a collection of my projects, ranging from web applications to blockchain solutions. Feel free to explore and reach out for collaboration opportunities!
