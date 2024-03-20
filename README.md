@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm an aspiring developer passionate about buildin
 
 Thank you for exploring my GitHub profile. If you find any of my projects interesting or have ideas for collaboration, feel free to reach out. Let's build something awesome together! 🚀
 
----
+<!--
 **niy42/niy42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
