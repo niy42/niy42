@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm an aspiring developer passionate about buildin
 - 🌱 Currently learning and exploring new technologies in React.js, Solidity, Python, and JavaScript.
 - 💡 Interested in decentralized finance (DeFi), smart contracts, and full-stack development.
 - 🚀 Actively seeking opportunities to contribute to open-source projects and collaborate on exciting ventures.
-- 📫 Reach me via [email](mailto:obanlaniyi42@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/adeniyi-obanla-3a137914b/)
+- 📫 Reach me via [email](mailto:obanlaniyi42@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/adeniyi-obanla-3a137914b/)
 
 ## Projects
 
