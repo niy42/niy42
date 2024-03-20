@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm an aspiring developer passionate about buildin
 
 ## Projects
 
-### [Project 1: React.js Web Application](link-to-project-repo)
+### [Project 1: React.js Web Application](https://github.com/niy42/Web3.0)
 - Description: Built a responsive web application using React.js, showcasing my front-end development skills.
 - Technologies: React.js, HTML, CSS, JavaScript.
 
