@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Language-Python-red)
 ![](https://img.shields.io/badge/Language-Javascript-yellow)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange)
-# Hello, I'm niy42 👋
+# Hello there, Welcome I'm niy42 👋
 
 Welcome to my GitHub profile! I'm an aspiring developer passionate about building innovative projects using React.js, Solidity, Python, and JavaScript. Here you'll find a collection of my projects, ranging from web applications to blockchain solutions. Feel free to explore andLreach out for collaboration opportunities!
 
