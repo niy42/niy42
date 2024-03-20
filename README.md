@@ -1,5 +1,5 @@
 ---
-![Lottery](https://img.shields.io/badge/Language-Solidity-brightgreen-Language-javascript-yellow)
+![Lottery](https://img.shields.io/badge/Language-Solidity-brightgreen)
 ![Lottery](https://img.shields.io/badge/Language-Javascript-yellowgreen)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange)
 # Hello, I'm niy42 👋
