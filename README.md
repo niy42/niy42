@@ -5,14 +5,14 @@
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange)
 # Hello there, Welcome I'm niy42 👋
 
-Welcome to my GitHub profile! I'm an aspiring developer passionate about building innovative projects using React.js, Solidity, Python, and JavaScript. Here you'll find a collection of my projects, ranging from web applications to blockchain solutions. Feel free to explore andLreach out for collaboration opportunities!
+Welcome to my GitHub profile! I'm an aspiring developer passionate about building innovative projects using React.js, Solidity, Python, and JavaScript. Here you'll find a collection of my projects, ranging from web applications to blockchain solutions. Feel free to explore and reach out for collaboration opportunities!
 
 ## About Me
 
 - 🌱 Currently learning and exploring new technologies in React.js, Solidity, Python, and JavaScript.
 - 💡 Interested in decentralized finance (DeFi), smart contracts, and full-stack development.
 - 🚀 Actively seeking opportunities to contribute to open-source projects and collaborate on exciting ventures.
-- 📫 Reach me via [email](mailto:youremail@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/).
+- 📫 Reach me via [email](mailto:obanlaniyi42@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/adeniyi-obanla-3a137914b/).
 
 ## Projects
 
@@ -42,8 +42,8 @@ Welcome to my GitHub profile! I'm an aspiring developer passionate about buildin
 ## Let's Connect
 
 - Check out my [portfolio](link-to-portfolio) for more projects and details.
-- Follow me on [Twitter](https://twitter.com/yourtwitterhandle) for updates and insights.
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/) to stay in touch.
+- Follow me on [Twitter](https://twitter.com/@yung_0x7) for updates and insights.
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/adeniyi-obanla-3a137914b/) to stay in touch.
 
 ## Thank You for Visiting!
 
