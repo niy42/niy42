@@ -1,5 +1,3 @@
-Certainly! Here's an example of an awesome README.md for your GitHub profile:
-
 ---
 
 # Hello, I'm niy42 👋
