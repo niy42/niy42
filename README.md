@@ -1,6 +1,7 @@
 ---
-![Lottery](https://img.shields.io/badge/Language-Solidity-brightgreen)
-![Lottery](https://img.shields.io/badge/Language-Javascript-yellow)
+![](https://img.shields.io/badge/Language-Solidity-brightgreen)
+![](https://img.shields.io/badge/Language-Python-red)
+![](https://img.shields.io/badge/Language-Javascript-yellow)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange)
 # Hello, I'm niy42 👋
 
