@@ -52,14 +52,14 @@ Certainly! You can adjust the size of the images by specifying width and height 
 ## Tech Stack
 
 ### Frontend
-- **Framework:** React.js
+- **Framework:** React.js <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="100" height="100">
 - **Styling:** CSS Modules
-- **State Management:** Redux
+- **State Management:** Redux <img src="https://redux.js.org/img/redux.svg" alt="Redux Logo" width="100" height="100">
 - **HTTP Client:** Axios
 - **Routing:** React Router
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="100" height="100">
-<img src="https://redux.js.org/img/redux.svg" alt="Redux Logo" width="100" height="100">
+
+
 
 ### Backend
 - **Framework:** Express.js
