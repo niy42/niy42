@@ -47,6 +47,8 @@ Welcome to my GitHub profile! I'm an aspiring developer passionate about buildin
 
  In a GitHub README file, you can include images using Markdown syntax. Here's how you can include images associated with each stack:
 
+Certainly! You can adjust the size of the images by specifying width and height attributes in the Markdown syntax. Here's how you can make the logos smaller:
+
 ## Tech Stack
 
 ### Frontend
@@ -56,8 +58,8 @@ Welcome to my GitHub profile! I'm an aspiring developer passionate about buildin
 - **HTTP Client:** Axios
 - **Routing:** React Router
 
-![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-![Redux Logo](https://redux.js.org/img/redux.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="100" height="100">
+<img src="https://redux.js.org/img/redux.svg" alt="Redux Logo" width="100" height="100">
 
 ### Backend
 - **Framework:** Express.js
@@ -65,8 +67,8 @@ Welcome to my GitHub profile! I'm an aspiring developer passionate about buildin
 - **Authentication:** JSON Web Tokens (JWT)
 - **ORM/ODM:** Mongoose
 
-![Express Logo](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)
-![MongoDB Logo](https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express Logo" width="100" height="100">
+<img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB Logo" width="100" height="100">
 
 ### DevOps
 - **Version Control:** Git
@@ -75,28 +77,31 @@ Welcome to my GitHub profile! I'm an aspiring developer passionate about buildin
 - **Containerization:** Docker
 - **Orchestration:** Docker Compose
 
-![Git Logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
-![Heroku Logo](https://brand.heroku.com/static/media/heroku-logotype-vertical.81d6f3d3.svg)
-![GitHub Actions Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Actions.svg)
-![Docker Logo](https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png)
-![Docker Compose Logo](https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png)
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="100" height="100">
+<img src="https://brand.heroku.com/static/media/heroku-logotype-vertical.81d6f3d3.svg" alt="Heroku Logo" width="100" height="100">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Actions.svg" alt="GitHub Actions Logo" width="100" height="100">
+<img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker Logo" width="100" height="100">
+<img src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png" alt="Docker Compose Logo" width="100" height="100">
 
 ### Testing
 - **Unit Testing:** Jest
 - **Integration Testing:** Supertest
 - **End-to-End Testing:** Cypress
 
-![Jest Logo](https://jestjs.io/img/jest.svg)
-![Cypress Logo](https://avatars.githubusercontent.com/u/8908513?s=200&v=4)
+<img src="https://jestjs.io/img/jest.svg" alt="Jest Logo" width="100" height="100">
+<img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" alt="Cypress Logo" width="100" height="100">
 
 ### Others
 - **API Documentation:** Swagger
 - **Linting:** ESLint
 - **Package Manager:** npm
 
-![Swagger Logo](https://avatars.githubusercontent.com/u/7658037?s=200&v=4)
-![ESLint Logo](https://eslint.org/img/logo.svg)
-![npm Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png)
+<img src="https://avatars.githubusercontent.com/u/7658037?s=200&v=4" alt="Swagger Logo" width="100" height="100">
+<img src="https://eslint.org/img/logo.svg" alt="ESLint Logo" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" alt="npm Logo" width="100" height="100">
+```
+
+By specifying the `width` and `height` attributes in each image tag, you can control the size of the images displayed on GitHub. Adjust the values as needed to achieve the desired size.
 ```
 
 In this Markdown code, I've included image links for various logos associated with each technology. These images will render on GitHub along with the text descriptions, providing a visually appealing representation of your tech stack. Make sure to replace the image URLs with the appropriate ones for your project.
