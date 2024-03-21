@@ -45,7 +45,9 @@ Welcome to my GitHub profile! I'm an aspiring developer passionate about buildin
 - Follow me on [Twitter](https://twitter.com/@yung_0x7) for updates and insights.
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/adeniyi-obanla-3a137914b/) to stay in touch.
 
-  ## Tech Stack
+ In a GitHub README file, you can include images using Markdown syntax. Here's how you can include images associated with each stack:
+
+## Tech Stack
 
 ### Frontend
 - **Framework:** React.js
@@ -54,11 +56,17 @@ Welcome to my GitHub profile! I'm an aspiring developer passionate about buildin
 - **HTTP Client:** Axios
 - **Routing:** React Router
 
+![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+![Redux Logo](https://redux.js.org/img/redux.svg)
+
 ### Backend
 - **Framework:** Express.js
 - **Database:** MongoDB
 - **Authentication:** JSON Web Tokens (JWT)
 - **ORM/ODM:** Mongoose
+
+![Express Logo](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)
+![MongoDB Logo](https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png)
 
 ### DevOps
 - **Version Control:** Git
@@ -67,17 +75,32 @@ Welcome to my GitHub profile! I'm an aspiring developer passionate about buildin
 - **Containerization:** Docker
 - **Orchestration:** Docker Compose
 
+![Git Logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
+![Heroku Logo](https://brand.heroku.com/static/media/heroku-logotype-vertical.81d6f3d3.svg)
+![GitHub Actions Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Actions.svg)
+![Docker Logo](https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png)
+![Docker Compose Logo](https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png)
+
 ### Testing
 - **Unit Testing:** Jest
 - **Integration Testing:** Supertest
 - **End-to-End Testing:** Cypress
+
+![Jest Logo](https://jestjs.io/img/jest.svg)
+![Cypress Logo](https://avatars.githubusercontent.com/u/8908513?s=200&v=4)
 
 ### Others
 - **API Documentation:** Swagger
 - **Linting:** ESLint
 - **Package Manager:** npm
 
+![Swagger Logo](https://avatars.githubusercontent.com/u/7658037?s=200&v=4)
+![ESLint Logo](https://eslint.org/img/logo.svg)
+![npm Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png)
+```
 
+In this Markdown code, I've included image links for various logos associated with each technology. These images will render on GitHub along with the text descriptions, providing a visually appealing representation of your tech stack. Make sure to replace the image URLs with the appropriate ones for your project.
+```
 ## Thank You for Visiting!
 
 Thank you for exploring my GitHub profile. If you find any of my projects interesting or have ideas for collaboration, feel free to reach out. Let's build something awesome together! 🚀
