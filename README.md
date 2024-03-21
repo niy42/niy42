@@ -45,6 +45,39 @@ Welcome to my GitHub profile! I'm an aspiring developer passionate about buildin
 - Follow me on [Twitter](https://twitter.com/@yung_0x7) for updates and insights.
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/adeniyi-obanla-3a137914b/) to stay in touch.
 
+  ## Tech Stack
+
+### Frontend
+- **Framework:** React.js
+- **Styling:** CSS Modules
+- **State Management:** Redux
+- **HTTP Client:** Axios
+- **Routing:** React Router
+
+### Backend
+- **Framework:** Express.js
+- **Database:** MongoDB
+- **Authentication:** JSON Web Tokens (JWT)
+- **ORM/ODM:** Mongoose
+
+### DevOps
+- **Version Control:** Git
+- **Hosting:** Heroku
+- **CI/CD:** GitHub Actions
+- **Containerization:** Docker
+- **Orchestration:** Docker Compose
+
+### Testing
+- **Unit Testing:** Jest
+- **Integration Testing:** Supertest
+- **End-to-End Testing:** Cypress
+
+### Others
+- **API Documentation:** Swagger
+- **Linting:** ESLint
+- **Package Manager:** npm
+
+
 ## Thank You for Visiting!
 
 Thank you for exploring my GitHub profile. If you find any of my projects interesting or have ideas for collaboration, feel free to reach out. Let's build something awesome together! 🚀
