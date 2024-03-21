@@ -45,7 +45,6 @@ Welcome to my GitHub profile! I'm an aspiring developer passionate about buildin
 - Follow me on [Twitter](https://twitter.com/@yung_0x7) for updates and insights.
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/adeniyi-obanla-3a137914b/) to stay in touch.
 
-```markdown
 ## Tech Stack
 
 ### Frontend
@@ -106,7 +105,7 @@ Welcome to my GitHub profile! I'm an aspiring developer passionate about buildin
     <img src="https://eslint.org/img/logo.svg" alt="ESLint Logo" width="100" height="100">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" alt="npm Logo" width="100" height="100">
 </div>
-```
+
 
 By wrapping each pair of images in a `<div>` with `display: flex;`, the images will be displayed horizontally. Adjust the styles and sizes as needed to achieve the desired layout.
 
