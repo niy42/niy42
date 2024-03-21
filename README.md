@@ -55,8 +55,8 @@ Welcome to my GitHub profile! I'm an aspiring developer passionate about buildin
 - **Routing:** React Router
 
 <div style="display: flex;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="100" height="100">
-    <img src="https://redux.js.org/img/redux.svg" alt="Redux Logo" width="100" height="100">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="50" height="50">
+    <img src="https://redux.js.org/img/redux.svg" alt="Redux Logo" width="50" height="50">
 </div>
 
 ### Backend
@@ -94,8 +94,7 @@ Welcome to my GitHub profile! I'm an aspiring developer passionate about buildin
 - **Package Manager:** npm
 
 <div style="display: flex;">
-    <img src="https://avatars.githubusercontent.com/u/7658037?s=200&v=4" alt="Swagger Logo" width="100" height="100">
-    <img src="https://eslint.org/img/logo.svg" alt="ESLint Logo" width="50" height="50">
+    <img src="https://avatars.githubusercontent.com/u/7658037?s=200&v=4" alt="Swagger Logo" width="50" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" alt="npm Logo" width="50" height="50">
 </div>
 
