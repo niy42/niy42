@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Javascript-yellow)<br />
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange)
 ```
-const Welcome = {
+# const Welcome = {
     Title: "Hello there"
     Name: "I'm niy42 👋"
 }
