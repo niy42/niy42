@@ -7,7 +7,7 @@
 ```
 # Hello there, Welcome I'm niy42 👋
 ```
-<div style='width=100;'>
+<div style='width: 100;'>
     ![](https://github.com/niy42/Modern_UI/blob/main/src/assets/me42.gif)
 </div>
 
