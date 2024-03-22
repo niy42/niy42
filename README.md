@@ -14,8 +14,6 @@
     </div>
 </div>
 
-Welcome to my GitHub profile! I'm an aspiring developer passionate about building innovative projects using React.js, Solidity, Python, and JavaScript. Here you'll find a collection of my projects, ranging from web applications to blockchain solutions. Feel free to explore and reach out for collaboration opportunities!
-
 ## About Me
 
 - 🌱 Currently learning and exploring new technologies in React.js, Solidity, Python, and JavaScript.
