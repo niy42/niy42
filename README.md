@@ -5,7 +5,10 @@
 ![](https://img.shields.io/badge/Javascript-yellow)<br />
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange)
 ```
-# Hello there, Welcome I'm niy42 👋
+const Welcome = {
+    Title: "Hello there"
+    Name: "I'm niy42 👋"
+}
 ```
 <div style="align-items: center;">
     <img src="https://github.com/niy42/Modern_UI/blob/main/src/assets/flyhigh.gif" alt="Logo">
