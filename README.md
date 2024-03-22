@@ -1,5 +1,5 @@
 ---
-![Lottery](https://img.shields.io/badge/Language-Solidity-brightgreen)
+![Lottery](https://img.shields.io/badge/Languages-Solidity-brightgreen)
 ![](https://img.shields.io/badge/Python-red)
 ![](https://img.shields.io/badge/Javascript-yellow)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange)
