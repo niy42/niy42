@@ -7,7 +7,9 @@
 ```
 # Hello there, Welcome I'm niy42 👋
 ```
-![](https://github.com/niy42/Modern_UI/blob/main/src/assets/me42.gif)
+<div style='width=100; height=100'>
+    ![](https://github.com/niy42/Modern_UI/blob/main/src/assets/me42.gif)
+</div>
 
 Welcome to my GitHub profile! I'm an aspiring developer passionate about building innovative projects using React.js, Solidity, Python, and JavaScript. Here you'll find a collection of my projects, ranging from web applications to blockchain solutions. Feel free to explore and reach out for collaboration opportunities!
 
