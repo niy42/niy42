@@ -7,12 +7,11 @@
 ```
 # Hello there, Welcome I'm niy42 👋
 ```
-<div style="display: flex; align-items: center;">
-    <img src="https://github.com/niy42/Modern_UI/blob/main/src/assets/flyhigh.gif" alt="Logo" style="margin-right: 20px;">
-    <div>
-        Welcome to my GitHub profile! I'm an aspiring developer passionate about building innovative projects using React.js, Solidity, Python, and JavaScript. Here you'll find a collection of my projects, ranging from web applications to blockchain solutions. Feel free to explore and reach out for collaboration opportunities!
-    </div>
+<div style="align-items: center;">
+    <img src="https://github.com/niy42/Modern_UI/blob/main/src/assets/flyhigh.gif" alt="Logo">
 </div>
+
+Welcome to my GitHub profile! I'm an aspiring developer passionate about building innovative projects using React.js, Solidity, Python, and JavaScript. Here you'll find a collection of my projects, ranging from web applications to blockchain solutions. Feel free to explore and reach out for collaboration opportunities!
 
 ## About Me
 
