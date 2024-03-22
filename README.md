@@ -7,7 +7,7 @@
 ```
 # Hello there, Welcome I'm niy42 👋
 ```
-<div style="display: grid;">
+<div>
     <img src="https://github.com/niy42/Modern_UI/blob/main/src/assets/me42.gif" alt="Logo" width="100">
 </div>
 
