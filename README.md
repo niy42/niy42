@@ -7,7 +7,8 @@
 ```
 const Greetings = {
     title: "Welcome";
-    string: "Hello there! I'm niy42 your flying hero😉"
+    string: "Hello there! I'm niy42"
+    workspace: "flying hero"
 }
 ```
 <div style="align-items: center;">
