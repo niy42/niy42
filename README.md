@@ -8,9 +8,12 @@
 # Hello there, Welcome I'm niy42 👋
 ```
 <div style="display: flex">
-    <img src="https://github.com/niy42/Modern_UI/blob/main/src/assets/me42.gif" alt="Logo" width="full">
-Welcome to my GitHub profile! I'm an aspiring developer passionate about building innovative projects using React.js, Solidity, Python, and JavaScript. Here you'll find a collection of my projects, ranging from web applications to blockchain solutions. Feel free to explore and reach out for collaboration opportunities!
-
+    <div>
+        <img src="https://github.com/niy42/Modern_UI/blob/main/src/assets/me42.gif" alt="Logo" width="full">
+    </div>
+    <div>
+        Welcome to my GitHub profile! I'm an aspiring developer passionate about building innovative projects using React.js, Solidity, Python, and JavaScript. Here you'll find a collection of my projects, ranging from web applications to blockchain solutions. Feel free to explore and reach out for collaboration opportunities!
+    </div>
 </div>
 
 Welcome to my GitHub profile! I'm an aspiring developer passionate about building innovative projects using React.js, Solidity, Python, and JavaScript. Here you'll find a collection of my projects, ranging from web applications to blockchain solutions. Feel free to explore and reach out for collaboration opportunities!
