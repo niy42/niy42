@@ -2,7 +2,7 @@
 ![Languages](https://img.shields.io/badge/Spoken-Languages-blue)
 ![Lottery](https://img.shields.io/badge/Solidity-brightgreen)
 ![](https://img.shields.io/badge/Python-red)
-![](https://img.shields.io/badge/Javascript-yellow)
+![](https://img.shields.io/badge/Javascript-yellow)<br />
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange)
 ```
 # Hello there, Welcome I'm niy42 👋
