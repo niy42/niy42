@@ -12,7 +12,7 @@ const Greetings = {
 }
 ```
 <div style="align-items: center;">
-    <img src="https://github.com/niy42/Modern_UI/blob/main/src/assets/flyhigh.gif" alt="Logo">
+    <img src="https://github.com/niy42/Modern_UI/blob/main/src/assets/yoroitoshi-street-fighter.gif">
 </div>
 
 Welcome to my GitHub profile! I'm an aspiring developer passionate about building innovative projects using React.js, Solidity, Python, and JavaScript. Here you'll find a collection of my projects, ranging from web applications to blockchain solutions. Feel free to explore and reach out for collaboration opportunities!😊
