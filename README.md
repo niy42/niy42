@@ -6,8 +6,8 @@
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange)
 ```
 const Greetings = {
-    Title: "Welcome";
-    String: "Hello there! I'm niy42 👋";
+    title: "Welcome";
+    string: "Hello there! I'm niy42 👋"
 }
 ```
 <div style="align-items: center;">
