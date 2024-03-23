@@ -7,7 +7,7 @@
 ```
 const greetings = {                                 const knowMe = {
     title: "Welcome";                                     workspace: "Freelance Fighter";
-    string: "Hello there! I'm niy42👋"                      trait: " Able and Ready..."
+    string: "Hello there! I'm niy42👋"                      trait: "Action"
 }                                                   }
 ```
 <div style="align-items: center;">
