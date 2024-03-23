@@ -6,8 +6,10 @@
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange)
 ```
 const greetings = {                                 const knowMe = {
-    title: "Welcome";                                     workspace: "Freelance Fighter";
-    string: "Hello there! I'm niy42👋"                      trait: "Man of action"
+    title: "Welcome";                                   workspace: "Freelance Fighter";
+    intro: "Hello there!";                              favourite_speech: "No time to spare, let's hit the ground runnning";
+    intro: "I am niy2..."                               favourite_word: "Done";
+                                                        trait: "Man of action"
 }                                                   }
 ```
 <div style="align-items: center;">
