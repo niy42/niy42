@@ -1,5 +1,5 @@
 ---
-![Languages](https://img.shields.io/badge/Spoken-Languages-blue)
+![Languages](https://img.shields.io/badge/Armament-Technology-blue)
 ![Lottery](https://img.shields.io/badge/Solidity-brightgreen)
 ![](https://img.shields.io/badge/Python-red)
 ![](https://img.shields.io/badge/Javascript-yellow)<br />
