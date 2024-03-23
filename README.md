@@ -8,7 +8,7 @@
 const Greetings = {
     title: "Welcome";
     string: "Hello there! I'm niy42";
-    workspace: "Freelance";
+    workspace: "Freelance Fighter";
     word: " Let's do this..."
 }
 ```
