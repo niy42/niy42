@@ -59,7 +59,7 @@ Welcome to my GitHub profile! I'm an aspiring developer passionate about buildin
 ### Frontend
 - **Framework:** React.js
 - **Styling:** CSS Modules
-- **State Management:** Redux
+- **State Management:** Redux, Context API
 - **HTTP Client:** Axios
 - **Routing:** React Router
 
