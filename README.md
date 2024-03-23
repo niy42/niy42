@@ -8,8 +8,8 @@
 const Greetings = {
     title: "Welcome";
     string: "Hello there! I'm niy42";
-    workspace: "Freelance Fighter 中文";
-    word: " Let's do this..."
+    workspace: "Freelance Fighter";
+    trait: " Able and Ready..."
 }
 ```
 <div style="align-items: center;">
