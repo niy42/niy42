@@ -5,16 +5,10 @@
 ![](https://img.shields.io/badge/Javascript-yellow)<br />
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange)
 ```
-const greetings = {
-    title: "Welcome";
-    string: "Hello there! I'm niy42"
-}
-
-const knowMe = {
-    workspace: "Freelance Fighter";
-    trait: " Able and Ready..."
-}
-
+const greetings = {                                 const knowMe = {
+    title: "Welcome";                                     workspace: "Freelance Fighter";
+    string: "Hello there! I'm niy42"                      trait: " Able and Ready..."
+}                                                   }
 ```
 <div style="align-items: center;">
     <img src="https://github.com/niy42/Modern_UI/blob/main/src/assets/yoroitoshi-street-fighter.gif">
