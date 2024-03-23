@@ -8,7 +8,8 @@
 const Greetings = {
     title: "Welcome";
     string: "Hello there! I'm niy42";
-    workspace: "let's do this..."
+    workspace: " ";
+    word: " let's do this..."
 }
 ```
 <div style="align-items: center;">
