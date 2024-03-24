@@ -6,7 +6,7 @@
 ```
 const greetings = {                                 const knowMe = {
     title: "Welcome";                                   workspace: "Freelance Fighter";
-    intro: "Hello there!";                              favourite_speech: "Hey no time to spare, let's hit the ground runnning";
+    intro: "Hello there!";                              favourite_speech: "Hey no time to spare, let's hit the ground running";
     intro: "I am niy2..."                               favourite_theme: "Done, next please...";
                                                         trait: "Man of action"
 }                                                   }
