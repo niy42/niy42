@@ -5,11 +5,11 @@
 ![](https://img.shields.io/badge/Javascript-yellow)<br />
 ```
 const greetings = {                                 const knowMe = {
-    title: "Welcome";                                   workspace: "Freelance Fighter";
-    intro: "Hello there!";                              favourite_speech: "Hey no time to spare, let's hit the ground running";
-    intro: "I am niy2..."                               favourite_theme: "Done, next please...";
+    title: "Welcome",                                   workspace: "Freelance Fighter",
+    intro: "Hello there!",                              favourite_speech: "Hey no time to spare, let's hit the ground running",
+    intro: "I am niy2..."                               favourite_theme: "Done, next please...",
                                                         trait: "Man of action"
-}                                                   }
+};                                                   };
 ```
 <div style="align-items: center;">
     <img src="https://github.com/niy42/Modern_UI/blob/main/src/assets/yoroitoshi-street-fighter.gif">
