@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm an aspiring developer passionate about buildin
 - Description: Built a responsive web application connected to the blockchain using React.js, showcasing my front-end development skills.
 - Technologies: React.js, HTML, CSS, JavaScript.
 
-### [Project 2: Decentralized Lottery DApp](link-to-project-repo)
+### [Project 2: Decentralized Lottery DApp](https://github.com/niy42/smartcontract-lottery)
 - Description: Developed a decentralized lottery application on the Ethereum blockchain using Solidity smart contracts and Web3.js integration.
 - Technologies: Solidity, Ethereum, Web3.js, React.js.
 
