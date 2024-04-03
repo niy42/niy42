@@ -38,13 +38,13 @@ Welcome to my GitHub profile! I'm an aspiring developer passionate about buildin
 - Description: Created a data analysis tool using Python, leveraging libraries such as Pandas and Matplotlib for data visualization.
 - Technologies: Python, Pandas, Matplotlib.
 
-### [Project 4: JavaScript Game Development](link-to-project-repo)
+### [Project 4: AvaxGods Web3 Game Development - TypeScript](https://github.com/niy42/nft_card_game))
 - Description: Designed and implemented an interactive game using JavaScript, demonstrating my skills in game development.
-- Technologies: JavaScript, HTML5, CSS3.
+- Technologies: TypeScript, JavaScript, HTML5, CSS3, Tailwind.
 
 ## Skills
 
-- **Programming Languages:** JavaScript (React.js), Solidity, Python, HTML5, CSS3.
+- **Programming Languages:** JavaScript/TypScript (React.js), Solidity, Python, HTML5, CSS3, Tailwind.
 - **Blockchain Development:** Smart Contracts, Ethereum, Web3.js.
 - **Data Analysis:** Pandas, NumPy, Matplotlib.
 - **Version Control:** Git, GitHub.
