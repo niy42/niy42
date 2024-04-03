@@ -3,7 +3,7 @@
 ![Lottery](https://img.shields.io/badge/Solidity-brightgreen)
 ![](https://img.shields.io/badge/Python-red)
 ![](https://img.shields.io/badge/Javascript-yellow)
-![](https://img.shields.io/badge/TypeScript-blue)<br />
+![](https://img.shields.io/badge/TypeScript-purple)<br />
 ```
 const greetings = {                                 const knowMe = {
     title: "Welcome",                                   workspace: "Freelance Fighter",
