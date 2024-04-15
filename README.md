@@ -8,7 +8,7 @@
 const greetings = {                                 const knowMe = {
     title: "Welcome",                                   workspace: "Freelance Fighter",
     intro: "Hello there!",                              favourite_speech: "Hey no time to spare, let's hit the ground running",
-    intro: "I am niy42..."                              favourite_theme: "Done, next please...![image](https://emojipedia.org/smiling-face)",
+    intro: "I am niy42..."                              favourite_theme: "Done, next please...😊",
                                                         trait: "Man of action"
 };                                                   };
 ```
