@@ -71,10 +71,10 @@ Welcome to my GitHub profile! I'm an aspiring developer passionate about buildin
 </div>
 
 ### Backend
-- **Framework:** Express.js
-- **Database:** MongoDB
+- **Framework:** Express.js, Node.JS
+- **Database:** MongoDB, Mysql
 - **Authentication:** JSON Web Tokens (JWT)
-- **ORM/ODM:** Mongoose
+- **ORM/ODM:** Mongoose, Sequelize
 
 <div style="display: flex;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express Logo" width="50" height="50">
@@ -102,7 +102,7 @@ Welcome to my GitHub profile! I'm an aspiring developer passionate about buildin
 ### Others
 - **API Documentation:** Swagger
 - **Linting:** ESLint
-- **Package Manager:** npm
+- **Package Manager:** npm, yarn
 
 <div style="display: flex;">
     <img src="https://avatars.githubusercontent.com/u/7658037?s=200&v=4" alt="Swagger Logo" width="50" height="50">
