@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm a web3 developer passionate about building inn
 
 ## Let's Connect
 
-- Check out my [portfolio](link-to-portfolio) for more projects and details.
+- Check out my [portfolio](https://adeniyiobanla.netlify.app/) for more projects and details.
 - Follow me on [Twitter](https://twitter.com/@yung_0x7) for updates and insights.
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/adeniyi-obanla-3a137914b/) to stay in touch.
 
