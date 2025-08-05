@@ -4,14 +4,7 @@
 ![](https://img.shields.io/badge/Python-red)
 ![](https://img.shields.io/badge/Javascript-yellow)
 ![](https://img.shields.io/badge/TypeScript-purple)<br />
-```
-const greetings = {                                 const knowMe = {
-    title: "Welcome",                                   workspace: "Freelance Fighter",
-    intro: "Hello there!",                              favourite_speech: "Hey no time to spare, let's hit the ground running",
-    intro: "I am niy42..."                              favourite_theme: "Done, next please...😊",
-                                                        trait: "Man of action"
-};                                                   };
-```
+
 <div style="align-items: center;">
     <img src="https://github.com/niy42/Modern_UI/blob/main/src/assets/yoroitoshi-street-fighter.gif">
 </div>
